@@ -7,7 +7,7 @@ Sliding puzzle solver is an app which takes inputs rangin from 0-8 from user and
   i)tkinter.
   ii)Random.
   
-                                                                              Contributors
-                                                                              Pranav
-                                                                              Nandakishore
-                                                                              Sai Pallav
+  ###                                                                            Contributors
+                                                                                  Pranav
+                                                                                  Nandakishore
+                                                                                  Sai Pallav
